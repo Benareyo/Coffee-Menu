@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --bg-color: #222c38;
+    --main-color: #141b25;
+    --p-color:#465363;
+    --price-color: #838d99;
+
+
+}
+.back-1{
+    background-color: var(--bg-color);
+    /* width: 1vh; */
+    height: 100vh;
+    align-content: center;
+
+
+/* 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+} */
+}
+.main{
+    background-color: var(--main-color);
+    height: 85vh;
+    margin: 0px 200px;
+    border-radius: 25px;
+/* 
+    width: 70%;
+    height: 80%; */
+}
+.header-img{
+    display: flex;
+    align-items: end;
+    flex-direction: row;
+    /* padding-left: 55px;
+    padding-bottom: 45px; */
+
+}
+
+.img-logo{
+    margin-left: 55px;
+    margin-top: 20px;
+    height: 50px;
+
+}
+.text{
+    font-family:calistoga ;
+    font-weight: 400;
+    display: flex;
+    color: var(--p-color);
+}
+.icon-images{
+    display: flex;
+    align-items: flex-end;
+    justify-items: row;
+    gap: 15px;
+    text-align: right;
+    color: var(--p-color);
+    margin-left: 875px;
+    /* margin-top:5px ;  */
+    height: 15px;
+    /* justify-items: space-between; */
+    
+}
+.ri-search-line{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.ri-menu-line{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.main-content{
+    display: flex;
+    justify-content: row;
+    gap: 45px;
+    
+}
+.main-text{
+    padding-left: 100px;
+    line-height: 45px;
+
+}
+.main-text h1{
+    font-family:calistoga ;
+    font-size: 75px;
+    line-height: 80px;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    
+
+}
+.main-text h2{
+    font-size: 14px;
+    line-height: 20px;
+    color: #465363;
+}
+.main-img{
+    grid: 50px ;
+}
+.cup-img{
+    height: 55vh;
+    padding-top:50px ;
+    padding-right: 10px;
+}
+.text-1{
+    color: white;
+
+}
+.text-2{
+    color: #465363;
+
+
+}
+.price-1{
+    color: var(--price-color);
+
+}
+.price-text{
+    display: flex;
+
+}
+.know-text{
+    display: flex;
+}
