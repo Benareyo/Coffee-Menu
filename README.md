@@ -11,5 +11,4 @@ A simple web project that displays a beautiful coffee menu.
 - HTML
 - CSS
 
-## Author
-Created by [Benareyo](https://github.com/Benareyo)
+
