@@ -11,4 +11,6 @@ A simple web project that displays a beautiful coffee menu.
 - HTML
 - CSS
 
+## Daily Update 
+- June 22: Added ideas.md with new project ideas
 
