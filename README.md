@@ -6,7 +6,7 @@ A simple web project that displays a beautiful coffee menu.
 - Stylish design for a cafe menu
 - Easy to customize and expand
 - Perfect for practice or portfolio
-
+  
 ## Tech Stack
 - HTML
 - CSS
